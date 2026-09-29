@@ -1,4 +1,4 @@
-# Protocol Change 04: CommonEra Architecture (Execution Strip)
+# Protocol Change 03: CommonEra Architecture (Execution Strip)
 
 ## Status
 * **Stage:** Active / Production
